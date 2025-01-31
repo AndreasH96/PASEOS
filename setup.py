@@ -16,7 +16,7 @@ setup(
         "loguru>=0.6.0",
         "matplotlib>=3.6.0",
         "numpy==1.26.4",
-        "pykep @ https://github.com/esa/pykep/releases/tag/v2.6.4",
+        "pykep @ git+https://github.com/esa/pykep/releases/tag/v2.6.4",
         "pyquaternion>=0.9.9",
         "scikit-spatial>=6.5.0",
         "skyfield>=1.45",
